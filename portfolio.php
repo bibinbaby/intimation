@@ -20,7 +20,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li class="active"><a href="portfolio.php">Portfolio</a></li>
@@ -87,7 +87,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li class="active"><a href="portfolio.php">Portfolio</a></li>

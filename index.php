@@ -20,11 +20,11 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="index.php">Home</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
-        <li class="active"><a href="aboutus.php">About Us</a></li>
+        <li><a href="aboutus.php">About Us</a></li>
         <li><a href="contactus.php">Contact Us</a></li>
       </ul>
     </div>
@@ -38,37 +38,30 @@
 <div class="wrapper">
   <div class="container">
     <div class="content">
-		<h3>About the company</h3>
-<p>Intimation is specialized in mobile applications in iPhone/iPad, Android, Blackberry etc. 
-We undertake projects that will go through full life cycle including concept formation, requirement analysis, 
-UI design, software architecture, development, independent testing and milestone delivery. 
-We are committed to quality of the products ensured by well defined process and defect prevention techniques applied through out the life cycle.</p>
-<p>We are having 20+ years of experience in website design, web development, mobile application and mobile enterprise consultancy.
-We are excellent in communication with productive relationships with clients. The team we are managing for development and support are best and very efficient. 
-Once you come to us, then our service will describe our performance and quality.</p>
-<p>We have a dedicated team for QA testing that will help us to ensure the products and services are of excellent quality. 
-QA will also participate in the performance testing/ tuning of our applications and web sites.</p>
-<p>Among the many strengths that distinguish our team in the marketplace are our:</p>
-<p>Extensive industry expertise.</p>
-<p>Broad and evolving service offerings.</p>
-<p>Expertise in business transformation outsourcing.</p>
-<p>Commitment to the long-term development of our employees.</p>
-<p>Proven and experienced management team.</p>
+      	<h3>True mobile application developers</h3>
+<p>We are committed to offer our customers the best products and services in software business. We believe in team building, work-life balance, better life style for our employees, fun at work and high quality of product delivery. we have an internal audit system for efficient programming during the normal office hours without applying pressure on workforce that will make the employee-employer relation the best in the industry.</p>
+<h3>Development methodology</h3>
+<p>Requirements analysis is critical to the success/failure of a software project. The requirements should be documented, measurable, testable, traceable, mappable to identified business needs or opportunities, and extended to a level of detail sufficient for system design. We undertake this process for the customers who approach us with ideas even without having any piece of documents.</p>
+<p>Software design is a process of problem solving and planning for a software solution. After the UI and specifications of software are determined, our software developers will design or delegate designers to develop an architecture for a solution. It includes high level diagrams, low-level component and algorithm implementation details.</p>
+<p>Code must be formatted to agreed coding standards. Coding standards keep the code consistent and easy for the entire team to read and refactor. We have developed standards for mobile applications and web applications to make the best code quality for all our product development and service projects.</p>
+<p>Software testing, depending on the testing method employed, can be implemented at any time in the development process. However, most of the test effort ideally occurs after the requirements are clear and the development process has been completed. It is proved that fixing a bug is less expensive when found earlier in the development process.</p>
 											
     </div>
     
     <br class="clear" />
   </div>
 </div>
+
+<!-- ####################################################################################################### -->
 <div class="wrapper col2">
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="index.php">Home</a></li>
+        <li class="active"><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
-        <li class="active"><a href="aboutus.php">About Us</a></li>
+        <li><a href="aboutus.php">About Us</a></li>
         <li><a href="contactus.php">Contact Us</a></li>
       </ul>
     </div>
@@ -78,7 +71,7 @@ QA will also participate in the performance testing/ tuning of our applications 
     <br class="clear" />
   </div>
 </div>
-
+<!-- ####################################################################################################### -->
 <!-- ####################################################################################################### -->
 <?php include("includes/footer.php");?>
 </body>

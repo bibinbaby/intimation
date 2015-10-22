@@ -14,7 +14,7 @@ File: Layout CSS
 @import url("featured_slide.css");
 
 html{overflow-y:scroll;}
-body{margin:0; padding:0; font-size:16px; font-family:Geneva, Arial, Helvetica, sans-serif; color:#666666; background-color:#FFFFFF;}
+body{margin:0; padding:0; font-size:14px; font-family:Geneva, Arial, Helvetica, sans-serif; color:#666666; background-color:#FFFFFF;}
 
 .justify{text-align:justify;}
 .bold{font-weight:bold;}
@@ -37,7 +37,7 @@ img{display:block; margin:0; padding:0; border:none;}
 
 /* ----------------------------------------------Wrapper------------------------------------- */
 
-div.wrapper{display:block; width:100%; margin:0; text-align:left; border-bottom:1px solid #E3E3E3;}
+div.wrapper{display:block; width:100%; margin:0;  border-bottom:1px solid #E3E3E3; text-align:justify;}
 div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, div.wrapper h6{margin:0 0 15px 0; padding:0; font-size:20px; font-weight:normal; line-height:normal;}
 .col0, .col0 a{color:#FFFFFF; background-color:#666666;}
 .col2{color:#FFFFFF; background-color:#D1EDF8;}
@@ -49,16 +49,16 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 /* ----------------------------------------------TopBar------------------------------------- */
 
 #topline{padding:10px 0;}
-#topline p{float:left; margin:0; padding:0;}
+#topline p{float:left; margin:0; padding:0; font-size:12px;}
 #topline ul{float:right; margin:0; padding:0; list-style:none;}
 #topline li{display:inline; margin:0 8px 0 0; padding:0 10px 0 0; border-right:1px solid #999999;}
 #topline li.last{margin-right:0; padding-right:0; border:none;}
 
 /* ----------------------------------------------Header------------------------------------- */
 
-#header{padding:2px 0 20px 0;}
-#header .fl_left{display:block; float:left; margin-top:7px; overflow:hidden;}
-#header .fl_right{display:block; float:right; width:468px; height:60px; margin-top:21px; overflow:hidden;}
+#header{padding:2px 0 2px 0;}
+#header .fl_left{display:block; float:left; margin-top:0px; overflow:hidden;}
+#header .fl_right{display:block; float:right; width:468px; height:60px; margin-top:21px; overflow:hidden; margin-right:130px; font-size:12px;}
 #header h1, #header p, #header ul{margin:0; padding:0; list-style:none; line-height:normal;}
 #header h1 a{font-size:46px; color:#999999; background-color:#FFFFFF;}
 #header h1 strong{font-weight:normal; color:#059BD8; background-color:#FFFFFF;}
@@ -79,7 +79,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 /* ----------------------------------------------Content------------------------------------- */
 
 .container{padding:20px 0;}
-.content{display:block; float:left; width:630px;}
+.content{display:block; float:left; width:550px;}
 
 /* Comments */
 
@@ -96,9 +96,12 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 #comments .commentlist p{margin:10px 5px 10px 0; padding:0; font-weight:normal; text-transform:none;}
 #comments .commentlist li .avatar{float:right; border:1px solid #EEEEEE; margin:0 0 0 10px;}
 
+
     /* ============ my works ========================= */
 	
 .portfolio_box{height:480px; width:320px; margin:20px 20px 20px 100px; }
+.prev{ width:40px; height:40px; margin:280px 2px; float:left; padding:5px; }
+.next{ width:40px; height:40px; margin:280px 2px; float:left; padding:5px; }
 
 /* ----------------------------------------------Column------------------------------------- */
 
@@ -167,4 +170,4 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 div.col8{border:none;}
 #copyright{padding:15px 0;}
-#copyright p{margin:0; padding:0;}
+#copyright p{margin:0; padding:0; font-size:12px;}

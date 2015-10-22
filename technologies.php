@@ -20,7 +20,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="active"><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
@@ -59,7 +59,7 @@ We always adapt to new tools and technologies to remain competent in the service
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="active"><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>

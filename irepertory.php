@@ -20,7 +20,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li class="active"><a href="portfolio.php">Portfolio</a></li>
@@ -36,7 +36,7 @@
 </div>
 <!-- ####################################################################################################### -->
 <div class="wrapper">
-  <div class="container">
+  <div class="container"><a href="iorganon.php"><div class="prev"><img src="images/prev.png" /></div></a>
     <div class="content">
 		<h3>iRepertory</h3>
         <div class="portfolio_box"> <img src="images/demo/irep.png" /></div>
@@ -44,7 +44,7 @@
               an index view in the main screen to access different sections and sub sections and a particular page.</p>
 											
     </div>
-    
+    <a href="ekalavya.php"><div class="next"><img src="images/next.png" /></div></a>
     <br class="clear" />
   </div>
 </div>
@@ -53,7 +53,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li><a href="ourservices.php">Our Services</a></li>
         <li class="active"><a href="portfolio.php">Portfolio</a></li>

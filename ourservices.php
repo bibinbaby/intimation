@@ -20,7 +20,7 @@
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li class="active"><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
@@ -44,7 +44,7 @@ There is no alternative of quality and hard work&#8221;. Our goal is to become t
 We offer wide range of software development services to our customers.</p>
 <p><strong>Mobile application development:</strong><span class="Apple-converted-space"> </span></p>
 <p>We undertake application development for following: </p>
-<p>1) iOS &#8211; iPhone, iPad, iPodv</p> 
+<p>1) iOS &#8211; iPhone, iPad, iPod</p> 
 <p>2) Android </p>
 <p>3) Windows SmartPhones</p> 
 <p>4) BlackBerry.</p>
@@ -69,7 +69,7 @@ Corona SDK,Kony studio,Kendo UI,Xamarin Studio etc.</p>
   <div id="topbar">
     <div id="topnav">
       <ul>
-        <li><a href="home.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="technologies.php">Technologies</a></li>
         <li class="active"><a href="ourservices.php">Our Services</a></li>
         <li><a href="portfolio.php">Portfolio</a></li>
